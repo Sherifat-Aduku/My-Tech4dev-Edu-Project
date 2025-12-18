@@ -1,0 +1,87 @@
+/*================= FEATURES =================== */
+
+.features {
+  width: 100%;
+  font-family: "Sora", sans-serif;
+  opacity: 1;
+}
+.categories-container{
+  display: flex;
+  justify-content: center; /* center horizontally */
+  padding: 40px 20px;
+  
+  /*display: flex; 
+  justify-content: center; 
+  align-items: center;
+  justify-content: space-between;
+  gap: 80px;
+  max-width: 1350px;
+  height: 680.5;
+  opacity: 1;*/
+}
+
+/*================= GRID BOXES =================== */
+
+.features-boxes {
+  display: grid;
+  grid-template-columns: repeat(3, 200px); 
+  grid-template-rows: repeat(3, 120px);    
+  gap: 40px 300px;     
+  align-items: center;                 
+  justify-content: center; 
+  width: 424px;
+  opacity: 1;
+  gap: 20px;
+  padding: 10px;
+  border-radius: 10px;                
+}
+
+.feature-box {
+  display: flex;
+  align-items: center;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  color: white;
+  border: 3px solid #1B75E8; 
+  box-sizing: border-box;     
+}
+
+.features-badge{
+    justify-items: center;
+    text-align: center;
+    padding: 5px;
+    width: 137.3px;
+    opacity: 1;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    background: rgba(233, 226, 255, 1);
+}
+
+.icon-container {
+  border:none;
+  border-radius: 8px;
+  padding: 8px;
+  margin-right: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+/* Box title */
+.box-title {
+  font-size: 1rem;
+  font-weight: 600;
+}
+
+/* Individual box colors and borders */
+.box-red { background-color: #F87171;}
+.box-blue { background-color: #60A5FA;}
+.box-green { background-color: #34D399;}
+.box-yellow { background-color: #FBBF24;}
+.box-purple { background-color: #A78BFA;}
+.box-orange { background-color: #F97316;}
+.box-pink { background-color: #F472B6;}
+.box-teal { background-color: #2DD4BF;}
+.box-gray { background-color: #9CA3AF;}

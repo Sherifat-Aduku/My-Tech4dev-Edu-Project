@@ -1,10 +1,6 @@
 # Education Landing Page (React)
 
-<<<<<<< HEAD
 This project is a responsive education landing page built with React.  
-=======
-This project is a responsive education Home/landing page built with React.  
->>>>>>> 10fbef405ba6a991e1ccf2441cca06234cac3b8f
 It was created to translate a Figma design into clean, structured, and reusable React components while paying close attention to layout, spacing, and responsiveness.
 
 The focus of this project is not just how it looks, but how the code is organised and easy to maintain.
@@ -12,11 +8,7 @@ The focus of this project is not just how it looks, but how the code is organise
 ##  Tech Stack
 
 - React (Vite)
-<<<<<<< HEAD
 - CSS (Flexbox & media queries)
-=======
-- CSS (Flexbox)
->>>>>>> 10fbef405ba6a991e1ccf2441cca06234cac3b8f
 - SVG icons imported as React components
 - Figma (for design reference)
 
@@ -42,7 +34,6 @@ src/
  ├── pages/
  │   └── LandingPage.jsx
  └── App.jsx
-<<<<<<< HEAD
 
 
 
@@ -63,5 +54,3 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
->>>>>>> 10fbef405ba6a991e1ccf2441cca06234cac3b8f
