@@ -11,7 +11,6 @@ The focus of this project is not just how it looks, but how the code is organise
 - React (Vite)
 - CSS (Flexbox & media queries)
 - CSS (Flexbox)
->>>>>>> 10fbef405ba6a991e1ccf2441cca06234cac3b8f
 - SVG icons imported as React components
 - Figma (for design reference)
 
